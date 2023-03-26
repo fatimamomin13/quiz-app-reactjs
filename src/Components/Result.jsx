@@ -15,7 +15,7 @@ export default function Result() {
         </h2>
         <button
           onClick={playAgain}
-          className="border my-3 hover:bg-pink-300 px-3 py-1 text-2xl rounded"
+          className="border my-3 bg-pink-300 hover:bg-pink-400 px-3 py-1 text-2xl rounded"
         >
           Play agian
         </button>
